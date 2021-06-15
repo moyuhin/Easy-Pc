@@ -1,2 +1,2 @@
 # Easy-Pc
-Final year project
+Final year project of HKCC high dip programme - Information technology
